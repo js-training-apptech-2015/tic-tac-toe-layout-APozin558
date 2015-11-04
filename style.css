@@ -1,0 +1,17 @@
+.game_board {
+  width: 40%;
+}
+
+.board_cell {
+  padding-bottom: 33%;
+  width: 30%;
+  margin: 5px;
+}
+
+.navigation-title{
+	text-align: center;
+}
+
+.score_board {
+  text-align: center;
+}
